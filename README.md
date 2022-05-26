@@ -250,7 +250,7 @@ Si la unimos con la Ley de Ohm tendremos:
 
 36.Para operar al 85% de eficiencia, ¿cuánta potencia de salida debe producir una fuente si la potencia de entrada es de 5 W?
 
-![image](https://user-images.githubusercontent.com/105740772/170506726-d2b34185-7dd6-4d04-907e-e36b99f0580a.png)
+![image](https://user-images.githubusercontent.com/105740772/170507314-5c670101-3667-4d15-964f-c072ff268e3f.png)
 
 ## 4.Video
 
