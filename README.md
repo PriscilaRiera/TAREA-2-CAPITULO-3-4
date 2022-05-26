@@ -254,11 +254,16 @@ Si la unimos con la Ley de Ohm tendremos:
 
 ## 4.Video
 
+https://youtu.be/EXQV87i4Afo
 
 ## 5.Conclusiones
-- b
-- b
-- c
+- La ley de Ohm es aquella ley que nos permite entender mejor los conceptos de voltaje, resistencia, corriente, en el estudio de la electrónica, esta ley es fundamental, ya que ademas nos ayuda a entender mejor la relación entre los tres conceptos antes mencionados.
+
+- La relación entre corriente, voltaje y resistencia se expresa mediante la ley de Ohm y esta determina que la corriente que esta en un circuito es directamente proporcionar al voltaje aplicado e inversamente proporcional a la resistencia del circuito.
+
+- La energía eléctrica se mide en vatios/hora (Wh) y es el resultado de diferencia de potencial entre dos puntos, lo que permite establecer una corriente eléctrica entre ambos mientras que a potencia eléctrica se mide en vatios o Watts (W) y es la relación de paso de energía de un flujo por unidad de tiempo, cuando ya se sabe estos conceptos, se puede hablar de la ley de Watt que hace referencia a la potencia y define que la potencia consumida por la carga eléctrica es directamente proporcional al voltaje suministrado y a la corriente que circula por este.
+
+- La ley de Ohm como la ley de Watt son conceptos muy importantes al momento de estudiar circuitos eléctricos y electricidad pues estas leyes facilitan el entendimiento de los procesos que se realiza y a su vez entrega fórmulas que permitiran realizar cálculos necesarios en el circuito, ambas leyes estan relacionadas y aunque se estudie primero la ley de Ohm se debe reconocer que la ley de Watt complementa de manera satisfactoria los conocimientos básicos y su relación entre ellos.
 
 ## 6.Bibliografía
 Floyd, T. L. (2007). Principios de circuitos eléctricos . Monterrey: Pearson Educación.
